@@ -5,3 +5,4 @@ This is a fun little Python script to convert jpg images to png given the source
 ## How To Run
 ''''
 python3 JPGtoPNGconverter.py <INPUT_FOLDER_NAME> <OUTPUT_FOLDER_NAME>
+''''
